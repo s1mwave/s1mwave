@@ -7,7 +7,7 @@
 [![Сайт](https://img.shields.io/badge/сайт-s1mwave.ru-2DE0CB?style=flat-square)](https://s1mwave.ru)
 [![Telegram](https://img.shields.io/badge/Telegram-@s1mwave-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/s1mwave)
 [![YouTube](https://img.shields.io/badge/YouTube-@s1mwave.dev-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@s1mwave.dev)
-[![TikTok](https://img.shields.io/badge/TikTok-@s1mwave.dev-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@s1mwave.dev)
+[![TikTok](https://img.shields.io/badge/TikTok-@s1mwave.dev-FE2C55?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@s1mwave.dev)
 
 </div>
 
